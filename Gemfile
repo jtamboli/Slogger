@@ -11,7 +11,6 @@ gem 'nokogiri'
 gem 'digest' # required for feedafever
 gem 'sqlite3' # required for feedafever
 gem 'rmagick', '2.13.2' # required for lastfmcovers
-gem 'multimap' # required for olivetree
 
 group :test do
   gem 'rake'
